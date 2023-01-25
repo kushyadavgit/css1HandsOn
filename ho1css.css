@@ -1,0 +1,50 @@
+.mainheading{
+    color: red;
+}
+.heading{
+
+    color: orangered;
+
+}
+
+
+li{
+    color: brown;
+}
+#linehight{
+
+    line-height: 25px;
+}
+#underline{
+
+    text-decoration:underline;
+}
+.textspace{
+
+    letter-spacing: 4px;
+}
+
+ul li{
+
+    color: brown;
+}
+.throughline{
+
+    text-decoration: line-through;
+}
+.mark{
+
+    background-color: yellow;
+}
+
+.p{
+
+    color: chocolate;
+}
+
+#link{
+
+    color: red;
+}
+
+
